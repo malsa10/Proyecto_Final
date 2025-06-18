@@ -1,0 +1,11 @@
+yfinance
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+openpyxl
+xlsxwriter
+scipy
+streamlit
